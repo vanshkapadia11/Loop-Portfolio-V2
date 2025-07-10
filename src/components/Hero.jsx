@@ -7,7 +7,7 @@ const Hero = ({ title, desc }) => {
         <div className="">
           <div className="mb-6">
             <img
-              src="/public/images/image.png"
+              src="/images/image.png"
               width={200}
               height={200}
               className="grayscale rounded-xl"
